@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **nothing** because I am lazy.
 
-- 💬 Ask me about **linux, docker, javascript,c and python**
+- 💬 Ask me about **linux, docker, javascript, c and python**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
