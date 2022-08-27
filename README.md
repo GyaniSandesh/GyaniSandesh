@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **web development**
+- 🌱 I’m currently learning **nothing** because I am lazy.
 
 - 💬 Ask me about **linux, docker, javascript,c and python**
 
