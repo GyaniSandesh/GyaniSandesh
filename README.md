@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **nothing** because I am lazy.
 
-- 💬 Ask me about **Linux, Docker, Javascript, C, Python and partial about Web Security**
+- 💬 Ask me about **Linux, Docker, Javascript, C, Python and Web Security**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
